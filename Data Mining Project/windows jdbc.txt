@@ -1,0 +1,4 @@
+C:\Program Files\PostgreSQL\11>java -cp .;postgresql-42.2.6.jar AgeThreshold
+Age >= ?
+6
+628.75

@@ -1,0 +1,3 @@
+postgres=# COPY (SELECT * FROM election_sequence) TO 'C:\University\2019 Summer\CSC343\A2\csc343_A2\test_export.csv'DELIMITER ',' CSV HEADER;
+COPY 340
+postgres=#
