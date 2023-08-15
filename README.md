@@ -3,4 +3,4 @@
 ## 2. Kaggle Data Prediction Competition
 ## 3. Data Mining Project
 ## 4. Board Game (Implemented using Python)
-## 5. U of T Master Practicum (Implemented using Python)
+## 5. U of T Biostatistics Master Practicum (Implemented using Python)
